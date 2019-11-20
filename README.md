@@ -8,3 +8,8 @@
 #### A. KMeans clustering
 #### B. KMedoids clustering
 #### C. Fuzzy CMeans (FCM)
+
+## Submitted By
+### Rajat Kumar (201811024)
+### Harsh Desai (201811011)
+### Praveen Kumar Singh (201811021)
